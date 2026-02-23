@@ -43,8 +43,14 @@ The goal of this simulation-based study is to evaluate the performance of a Comm
     - 1.5/2= ($V_{VD}$): $0.75\text{V}$.
   - b) - RD=VDD-VD/ID.
      - (1.5-0.75)/200uA= ($R_D$): $3.75\text{ k}\Omega$.
-  -  c)  W=2*ID*L/UCOX (VGS-Vt)²
-  -   2*200uA*180u/(0.9-0.36)²=1.07u
+  -  c)W=μCox​(VGS​−Vt​)22ID​L
+  -  μ=273.89×10^(-4)
+  -  Eox=𝜀𝑟ε0​.
+  -  𝜀𝑟=3.9.  ε0​=8.854×10^(-12)
+  -   Eox=𝜀𝑟ε0​=34.53×10^(-12)
+  -   tox=4.1×10^(-9)
+  -   μCOX=Eox/tox=230.5×10^(-6)​
+  -   W=(2×200u×180n)/(230.5u×(0.9-0.36)=1.07u
     
 ## 7)	Theory And Simulation Setup
 #### DC Analysis :
