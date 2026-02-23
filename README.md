@@ -59,7 +59,7 @@ ID= 1/2Kn(VOV)2
 VDS and ID provides the operating point of the MOSFET.
 
 ### Tabular column
-![Image]([https://github.com/user-attachments/assets/8081cf6c-e742-46bf-b9c3-7e5f98817674](https://github.com/ullasnarahatti/Experiment-01-/blob/main/Screenshot%202026-02-21%20102240.png?raw=true))
+![Image](https://github.com/ullasnarahatti/Experiment-1/blob/8d83d831c6155402c3a6da77986d2a06172235b7/Screenshot%202026-02-21%20102240.png)
 ##### Fig 2 : output of DC Ananlysis and Circuit
 
 #### Transient analysis :
